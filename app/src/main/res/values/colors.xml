@@ -8,10 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="vivid_pink">#0732B5</color>
+    <color name="vivid_pink">#210259</color>
     <color name="vivid_pink_secondary">#6AB3D5</color>
     <color name="burgundy">#442C2E</color>
-    <color name="frontbg">#555577</color>
+    <color name="frontbg">#8E68D1</color>
 
 
 </resources>
