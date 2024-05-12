@@ -1,0 +1,44 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/bg_priority_high.xml" value="0.20092592592592592" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/bg_priority_indicator.xml" value="0.20092592592592592" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/bg_priority_low.xml" value="0.20092592592592592" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/bg_priority_medium.xml" value="0.20092592592592592" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_add_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_habits_meditate_yoga.xml" value="0.20185185185185187" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_rectangle.xml" value="0.20092592592592592" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_tag_icon.xml" value="0.20185185185185187" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_tags_default_target.xml" value="0.20185185185185187" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_tags_target.xml" value="0.20185185185185187" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_tags_yoga.xml" value="0.20185185185185187" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/drawable/ic_task_btn.xml" value="0.1962962962962963" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/activity_habits.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/activity_main.xml" value="0.2296195652173913" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/activity_tasks.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/dropdownmenu_item.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/fragment_add_habits_dialog.xml" value="0.12082066869300911" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/fragment_add_tasks.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/fragment_habits_dialog.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/fragment_list_tasks.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/fragment_manage_habits_dialog.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/fragment_manage_tasks.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/fragment_tasks_list.xml" value="0.23333333333333334" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/habits_dialog.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/layout_card_habits.xml" value="0.1" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/layout_card_harbits.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/layout/layout_card_tasks.xml" value="0.2484375" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19814814814814816" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19814814814814816" />
+        <entry key="..\:/My Android Studio Projects/TasksHabits/app/src/main/res/mipmap-xxxhdpi/ic_launcher.xml" value="0.19814814814814816" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
